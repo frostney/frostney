@@ -4,10 +4,11 @@
 - [gocciascript.dev](https://gocciascript.dev) | [X](https://x.com/frostney_) | [LinkedIn](https://www.linkedin.com/in/johannesstein/)
 
 **interests**
+- (obscure) programming languages
 - JavaScript engines, VMs and compilers
 - modern tooling for Free Pascal
 - agentic engineering
-- (indie) games
+- (indie) games and 3D art
 
 **current projects**
 - [GocciaScript](https://github.com/frostney/GocciaScript): a sandbox-first JavaScript engine and runtime written in Object Pascal, passing 99.6% of test262 ([live results](https://www.gocciascript.dev/compatibility))
