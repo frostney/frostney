@@ -7,7 +7,7 @@
 - JavaScript engines, VMs and compilers
 - modern tooling for Free Pascal
 - agentic engineering
-- small games
+- (indie) games
 
 **current projects**
 - [GocciaScript](https://github.com/frostney/GocciaScript): a sandbox-first JavaScript engine and runtime written in Object Pascal, passing 99.6% of test262 ([live results](https://www.gocciascript.dev/compatibility))
@@ -16,7 +16,7 @@
 - [knips](https://github.com/frostney/knips): a cross-platform menu-bar screen recorder in Free Pascal
 
 **pascal tooling**
-- [lwpt](https://github.com/frostney/lwpt): build, test, format and dependency toolkit for Free Pascal and Delphi
+- [lwpt](https://github.com/frostney/lwpt): build, test, format and dependency toolkit for Free Pascal (and Delphi)
 - [duetto](https://github.com/frostney/duetto): a WebSocket client and server with permessage-deflate and native TLS
 - [pascal-mcp-sdk](https://github.com/frostney/pascal-mcp-sdk): an MCP server library for Free Pascal with no third-party dependencies
 
@@ -29,5 +29,5 @@
 
 **previously**
 - [react-native-create-library](https://github.com/frostney/react-native-create-library): creates a React Native library with one command (1.4k★)
-- [react-native-ibeacon](https://github.com/frostney/react-native-ibeacon) and [react-native-bluetooth-state](https://github.com/frostney/react-native-bluetooth-state): early React Native native modules
+- [react-native-ibeacon](https://github.com/frostney/react-native-ibeacon) and [react-native-bluetooth-state](https://github.com/frostney/react-native-bluetooth-state): bluetooth React Native modules
 - [react-spritesheet](https://github.com/frostney/react-spritesheet) and [moirai](https://github.com/frostney/moirai): React for games
